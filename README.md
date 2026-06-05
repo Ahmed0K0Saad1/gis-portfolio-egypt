@@ -33,8 +33,7 @@ GIS_Learning/
 │   ├── 09_Intersect_Analysis/
 │   ├── 10_Print_Layout/
 │   └── FINAL_School_Location/
-└── Notes/
----
+└── Notes/---
 
 ## 📊 Progress
 
