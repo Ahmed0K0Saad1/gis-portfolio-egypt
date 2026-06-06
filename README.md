@@ -1,7 +1,6 @@
 # 🗺️ GIS Portfolio — Egypt Spatial Analysis
 
-> Structured learning journey through QGIS, ArcGIS Pro, and Python GIS
-> using Egypt's administrative data for real-world spatial analysis.
+A structured GIS learning and practice project using Egypt administrative data (GADM) to build real-world spatial analysis skills using QGIS, ArcGIS Pro, and Python.
 
 ---
 
@@ -9,58 +8,47 @@
 
 | Tool | Purpose |
 |------|---------|
-| QGIS 4.0 | Primary GIS Desktop |
-| ArcGIS Pro | Advanced Analysis |
-| Python + GeoPandas | Spatial Automation |
-| GADM Egypt | Administrative Boundaries |
+| QGIS | Main GIS Desktop Analysis |
+| ArcGIS Pro | Advanced Spatial Operations |
+| Python (GeoPandas) | Automation & Analysis |
+| GADM Dataset | Administrative Boundaries of Egypt |
 
 ---
 
-## 📁 Project Structure
-GIS_Learning/
-├── Data/
-│   ├── Raw/              # Original datasets — never modified
-│   └── Processed/        # Analysis outputs
-├── Projects/
-│   ├── 01_Basemap_Setup/
-│   ├── 02_Admin_Layers/
-│   ├── 03_Symbology/
-│   ├── 04_Labels/
-│   ├── 05_Selection_Query/
-│   ├── 06_Field_Calculator/
-│   ├── 07_Buffer_Analysis/
-│   ├── 08_Clip_Analysis/
-│   ├── 09_Intersect_Analysis/
-│   ├── 10_Print_Layout/
-│   └── FINAL_School_Location/
-└── Notes/---
-
-## 📊 Progress
-
-| # | Project | Status | Skills |
-|---|---------|--------|--------|
-| 01 | Basemap Setup | ✅ Done | Interface, CRS, OSM |
-| 02 | Admin Layers | ✅ Done | Vector Layers |
-| 03 | Symbology | ✅ Done | Categorized, Color Ramp |
-| 04 | Labels | 🔄 In Progress | Labels, Expressions |
-| 05 | Selection & Query | ⏳ Upcoming | Identify, Filter |
-| 06 | Field Calculator | ⏳ Upcoming | Expressions |
-| 07 | Buffer Analysis | ⏳ Upcoming | Geoprocessing |
-| 08 | Clip Analysis | ⏳ Upcoming | Spatial Processing |
-| 09 | Intersect | ⏳ Upcoming | Overlay Analysis |
-| 10 | Print Layout | ⏳ Upcoming | Map Export |
-| 🏆 | School Location | ⏳ Upcoming | Full Analysis |
+## 📊 Progress Tracking & Map Output
+| # | Project | Status | Skills | Map Output |
+|---|---------|--------|--------|------------|
+| 01 | Basemap Setup | ✅ Done | CRS, Basemaps | <img src="./Output/01_Basemap_Setup.png" width="250" alt="Basemap Setup"> |
+| 02 | Admin Layers | ✅ Done | Vector Layers, Data Structuring | <img src="./Output/02_Admin_Layers.png" width="250" alt="Basemap Setup"> |
+| 03 | Symbology | ⏳ Upcoming | Styling, Visualization | `⏳ TBD` |
+| 04 | Labels | ⏳ Upcoming | Labeling & Expressions | `⏳ TBD` |
+| 05 | Selection & Query | ⏳ Upcoming | Filtering Data | `⏳ TBD` |
+| 06 | Field Calculator | ⏳ Upcoming | Data Manipulation | `⏳ TBD` |
+| 07 | Buffer Analysis | ⏳ Upcoming | Proximity Analysis | `⏳ TBD` |
+| 08 | Clip Analysis | ⏳ Upcoming | Spatial Processing | `⏳ TBD` |
+| 09 | Intersect | ⏳ Upcoming | Overlay Analysis | `⏳ TBD` |
+| 10 | Print Layout | ⏳ Upcoming | Cartographic Design | `⏳ TBD` |
+| 🏆 | Final School Location | ⏳ Upcoming | Full Spatial Decision System | `⏳ TBD` |
 
 ---
 
-## 🏆 Final Project Goal
+## 🎯 Final Project Goal
 
-**School Location Analysis — Egyptian Governorate**
+### 🏫 School Location Optimization (Egypt)
 
-Identify optimal locations for new schools based on:
+A spatial decision support system to identify optimal school locations based on:
+
 - Population distribution
-- Distance from existing facilities  
+- Distance from existing schools
 - Administrative boundaries
 - Spatial overlay analysis
 
 ---
+
+## 📌 What this project demonstrates
+
+- Real GIS workflow (not tutorials)
+- Spatial analysis skills
+- Cartography & visualization
+- Data processing with GIS tools
+- Engineering-style project structuring
