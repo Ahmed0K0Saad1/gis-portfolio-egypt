@@ -18,8 +18,8 @@ A structured GIS learning and practice project using Egypt administrative data (
 ## 📊 Progress Tracking & Map Output
 | # | Project | Status | Skills | Map Output |
 |---|---------|--------|--------|------------|
-| 01 | Basemap Setup | ✅ Done | CRS, Basemaps | <img src="./Output/01_Basemap_Setup.png" width="250" alt="Basemap Setup"> |
-| 02 | Admin Layers | ✅ Done | Vector Layers, Data Structuring | <img src="./Output/02_Admin_Layers.png" width="250" alt="Basemap Setup"> |
+| 01 | Basemap Setup | ✅ Done | CRS, Basemaps | <img src="./output/01_Basemap_Setup.png" width="250" alt="Basemap Setup"> |
+| 02 | Admin Layers | ✅ Done | Vector Layers, Data Structuring | <img src="./output/02_Admin_Layers.png" width="250" alt="Basemap Setup"> |
 | 03 | Symbology | ⏳ Upcoming | Styling, Visualization | `⏳ TBD` |
 | 04 | Labels | ⏳ Upcoming | Labeling & Expressions | `⏳ TBD` |
 | 05 | Selection & Query | ⏳ Upcoming | Filtering Data | `⏳ TBD` |
