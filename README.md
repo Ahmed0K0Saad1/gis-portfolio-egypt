@@ -16,20 +16,18 @@ A structured GIS learning and practice project using Egypt administrative data (
 ---
 
 ## 📊 Progress Tracking & Map Output
+
 | # | Project | Status | Skills | Map Output |
 |---|---------|--------|--------|------------|
-| 01 | Basemap Setup | ✅ Done | CRS, Basemaps | <img src="./output/01_Basemap_Setup.png" width="250" alt="Basemap Setup"> |
-| 02 | Admin Layers | ✅ Done | Vector Layers, Data Structuring | <img src="./output/02_Admin_Layers.png" width="250" alt="Basemap Setup"> |
-| 03 | Symbology | ⏳ Upcoming | Styling, Visualization | `⏳ TBD` |
-| 04 | Labels | ⏳ Upcoming | Labeling & Expressions | `⏳ TBD` |
-| 05 | Selection & Query | ⏳ Upcoming | Filtering Data | `⏳ TBD` |
-| 06 | Field Calculator | ⏳ Upcoming | Data Manipulation | `⏳ TBD` |
-| 07 | Buffer Analysis | ⏳ Upcoming | Proximity Analysis | `⏳ TBD` |
-| 08 | Clip Analysis | ⏳ Upcoming | Spatial Processing | `⏳ TBD` |
-| 09 | Intersect | ⏳ Upcoming | Overlay Analysis | `⏳ TBD` |
-| 10 | Print Layout | ⏳ Upcoming | Cartographic Design | `⏳ TBD` |
-| 🏆 | Final School Location | ⏳ Upcoming | Full Spatial Decision System | `⏳ TBD` |
-
+| 01 | Basemap Setup | ✅ Done | CRS, Coordinate Systems, OSM Basemap | <img src="./output/01_Basemap_Setup.png" width="250" alt="Basemap Setup"> |
+| 02 | Admin Layers | ✅ Done | Vector Layers, Symbology, Labels, CASE WHEN Expressions, Scale Visibility | <img src="./output/02_Admin_Layers.png" width="250" alt="Admin Layers"> |
+| 03 | Selection & Query | 🔄 Next | Identify Tool, Select by Attribute, Filter | `⏳ TBD` |
+| 04 | Field Calculator | ⏳ Upcoming | Calculated Fields, Expressions | `⏳ TBD` |
+| 05 | Buffer Analysis | ⏳ Upcoming | Proximity Analysis | `⏳ TBD` |
+| 06 | Clip Analysis | ⏳ Upcoming | Spatial Extraction | `⏳ TBD` |
+| 07 | Intersect | ⏳ Upcoming | Overlay Analysis | `⏳ TBD` |
+| 08 | Print Layout | ⏳ Upcoming | Professional Map Export | `⏳ TBD` |
+| 🏆 | Final — School Location | ⏳ Upcoming | Full Spatial Analysis Pipeline | `⏳ TBD` |
 ---
 
 ## 🎯 Final Project Goal
