@@ -67,7 +67,7 @@ Load, style, and label Egypt's administrative boundary data (GADM) in QGIS with 
 
 ## 📸 Result Preview
 
-![Admin Layers Map](D:\GIS_Learning\output\02_Admin_Layers.png)
+![Admin Layers Map](../../output/02_Admin_Layers.png)
 ---
 
 ## 📌 Key Learnings
