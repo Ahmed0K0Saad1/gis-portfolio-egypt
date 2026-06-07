@@ -21,8 +21,8 @@ A structured GIS learning and practice project using Egypt administrative data (
 |---|---------|--------|--------|------------|
 | 01 | Basemap Setup | ✅ Done | CRS, Coordinate Systems, OSM Basemap | <img src="./output/01_Basemap_Setup.png" width="250" alt="Basemap Setup"> |
 | 02 | Admin Layers | ✅ Done | Vector Layers, Symbology, Labels, CASE WHEN Expressions, Scale Visibility | <img src="./output/02_Admin_Layers.png" width="250" alt="Admin Layers"> |
-| 03 | Selection & Query | 🔄 Next | Identify Tool, Select by Attribute, Filter | `⏳ TBD` |
-| 04 | Field Calculator | ⏳ Upcoming | Calculated Fields, Expressions | `⏳ TBD` |
+| 03 | Selection & Query | ✅ Done | Identify Tool, Select by Attribute, Filter | <img src="./output/03_Selection_Query.png" width="250" alt="Selection Query"> |
+| 04 | Field Calculator | 🔄 Next | Calculated Fields, Expressions | `⏳ TBD` |
 | 05 | Buffer Analysis | ⏳ Upcoming | Proximity Analysis | `⏳ TBD` |
 | 06 | Clip Analysis | ⏳ Upcoming | Spatial Extraction | `⏳ TBD` |
 | 07 | Intersect | ⏳ Upcoming | Overlay Analysis | `⏳ TBD` |
